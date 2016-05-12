@@ -1,6 +1,6 @@
 # PROGRAMA CONTEO DE PALABRAS
 
-frase="Dado una frase contar el numero de palabra que contiene"
+frase= "Dado una frase contar el numero de palabra que contiene"
 contador=0
 for recorrido in range (0, len(frase)):
 	if frase[recorrido] == " ":
