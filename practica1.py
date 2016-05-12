@@ -50,4 +50,4 @@ total=t2-t1
 
 print ('el tiempo que demoró en contar las palabras: ')
 print total
-
+# Fin del programa
